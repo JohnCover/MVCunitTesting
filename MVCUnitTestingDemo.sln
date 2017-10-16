@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCUnitTestingDemo", "MVCUnitTestingDemo\MVCUnitTestingDemo.csproj", "{C04E4967-E109-40A6-8FF7-B2FD6EC7BBBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCUnitTestingDemo.Tests", "MVCUnitTestingDemo.Tests\MVCUnitTestingDemo.Tests.csproj", "{464B5855-591F-441A-BE3F-39AFDD485C7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C04E4967-E109-40A6-8FF7-B2FD6EC7BBBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C04E4967-E109-40A6-8FF7-B2FD6EC7BBBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C04E4967-E109-40A6-8FF7-B2FD6EC7BBBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C04E4967-E109-40A6-8FF7-B2FD6EC7BBBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{464B5855-591F-441A-BE3F-39AFDD485C7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{464B5855-591F-441A-BE3F-39AFDD485C7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{464B5855-591F-441A-BE3F-39AFDD485C7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{464B5855-591F-441A-BE3F-39AFDD485C7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Users\John\Desktop\CECS475\LAB 9\MyCalculator.Tests\bin\Debug\MyCalculator.Tests.dll
+C:\Users\John\Desktop\CECS475\LAB 9\MyCalculator.Tests\bin\Debug\MyCalculator.Tests.pdb
+C:\Users\John\Desktop\CECS475\LAB 9\MyCalculator.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\John\Desktop\CECS475\LAB 9\MyCalculator.Tests\bin\Debug\MyCalculator.dll
+C:\Users\John\Desktop\CECS475\LAB 9\MyCalculator.Tests\bin\Debug\MyCalculator.pdb
+C:\Users\John\Desktop\CECS475\LAB 9\MyCalculator.Tests\obj\Debug\MyCalculator.Tests.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\CECS475\LAB 9\MyCalculator.Tests\obj\Debug\MyCalculator.Tests.dll
+C:\Users\John\Desktop\CECS475\LAB 9\MyCalculator.Tests\obj\Debug\MyCalculator.Tests.pdb
